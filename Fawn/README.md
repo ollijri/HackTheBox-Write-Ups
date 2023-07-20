@@ -1,3 +1,5 @@
+![image](https://github.com/ollijri/HackTheBox-Write-Ups/assets/66912443/6674402f-c390-436a-a4cd-f56a78cf572d)
+
 What does the 3-letter acronym FTP stand for? 
 
 ```File Transfer Protocol```
